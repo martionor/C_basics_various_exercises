@@ -1,0 +1,11 @@
+Workspace1/
+compile_commands.json
+library.dat
+makefile
+/*/*.project
+/*/*.clangd
+/*/*.mk
+/*/*.clang-format
+.cache
+.codelite
+/build-Debug/

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="MyFirstProgram" Path="MyFirstProgram/MyFirstProgram.project" Active="No"/>
+  <Project Name="PrintingName" Path="PrintingName/PrintingName.project" Active="No"/>
+  <Project Name="ReadingFromInput" Path="ReadingFromInput/ReadingFromInput.project" Active="No"/>
+  <Project Name="DataTypes" Path="DataTypes/DataTypes.project" Active="No"/>
+  <Project Name="EnumExample" Path="EnumExample/EnumExample.project" Active="No"/>
+  <Project Name="FormatSpecifiers" Path="FormatSpecifiers/FormatSpecifiers.project" Active="No"/>
+  <Project Name="Rectangle" Path="ReactangleArea/ReactangleArea.project" Active="No"/>
+  <Project Name="CommandLineArguments" Path="CommandLineArguments/CommandLineArguments.project" Active="No"/>
+  <Project Name="BasicOperators" Path="BasicOperators/BasicOperators.project" Active="No"/>
+  <Project Name="MinutesConversion" Path="MinutesConversion/MinutesConversion.project" Active="No"/>
+  <Project Name="BitwiseOperator" Path="BitwiseOperator/BitwiseOperator.project" Active="No"/>
+  <Project Name="Print_byte_size" Path="Print_byte_size/Print_byte_size.project" Active="No"/>
+  <Project Name="If_statements" Path="If_statements/If_statements.project" Active="No"/>
+  <Project Name="Amount_of_Pay_Challenge" Path="Amount_of_Pay_Challenge/Amount_of_Pay_Challenge.project" Active="No"/>
+  <Project Name="Amount_of_Pay_ChalengeV2" Path="Amount_of_Pay_ChalengeV2/Amount_of_Pay_ChalengeV2.project" Active="No"/>
+  <Project Name="Switch_statement" Path="Switch_statement/Switch_statement.project" Active="No"/>
+  <Project Name="Building_Calculator" Path="Building_Calculator/Building_Calculator.project" Active="No"/>
+  <Project Name="For_Loops" Path="For_Loops/For_Loops.project" Active="No"/>
+  <Project Name="While_Do_While" Path="While_Do_While/While_Do_While.project" Active="No"/>
+  <Project Name="Nested_Loops_Control" Path="Nested_Loops_Control/Nested_Loops_Control.project" Active="No"/>
+  <Project Name="Guessing_game" Path="Guessing_game/Guessing_game.project" Active="No"/>
+  <Project Name="C_messenger" Path="C_messenger/C_messenger.project" Active="No"/>
+  <Project Name="Workspace1" Path="Workspace1/Workspace1.project" Active="No"/>
+  <Project Name="Exercising_basics" Path="Exercising_basics/Exercising_basics.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Arrays_Partial_Designated_Values" Path="Arrays_Partial_Designated_Values/Arrays_Partial_Designated_Values.project" Active="No"/>
+  <Project Name="Prime_Numbers" Path="Prime_Numbers/Prime_Numbers.project" Active="No"/>
+  <Project Name="Multidimensional_Arrays" Path="Multidimensional_Arrays/Multidimensional_Arrays.project" Active="No"/>
+  <Project Name="Function_Function_Prototypes" Path="Function_Function_Prototypes/Function_Function_Prototypes.project" Active="No"/>
+  <Project Name="Function_Exercises1" Path="Function_Exercises1/Function_Exercises1.project" Active="No"/>
+  <Project Name="Tic_Tac_Toe" Path="Tic_Tac_Toe/Tic_Tac_Toe.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="MyFirstProgram" ConfigName="Debug"/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="PrintingName" ConfigName="Debug"/>
+      <Project Name="ReadingFromInput" ConfigName="Debug"/>
+      <Project Name="DataTypes" ConfigName="Debug"/>
+      <Project Name="EnumExample" ConfigName="Debug"/>
+      <Project Name="FormatSpecifiers" ConfigName="Debug"/>
+      <Project Name="Rectangle" ConfigName="Debug"/>
+      <Project Name="CommandLineArguments" ConfigName="Debug"/>
+      <Project Name="BasicOperators" ConfigName="Debug"/>
+      <Project Name="MinutesConversion" ConfigName="Debug"/>
+      <Project Name="BitwiseOperator" ConfigName="Debug"/>
+      <Project Name="Print_byte_size" ConfigName="Debug"/>
+      <Project Name="If_statements" ConfigName="Debug"/>
+      <Project Name="Amount_of_Pay_Challenge" ConfigName="Debug"/>
+      <Project Name="Amount_of_Pay_ChalengeV2" ConfigName="Debug"/>
+      <Project Name="Switch_statement" ConfigName="Debug"/>
+      <Project Name="Building_Calculator" ConfigName="Debug"/>
+      <Project Name="For_Loops" ConfigName="Debug"/>
+      <Project Name="While_Do_While" ConfigName="Debug"/>
+      <Project Name="Nested_Loops_Control" ConfigName="Debug"/>
+      <Project Name="Guessing_game" ConfigName="Debug"/>
+      <Project Name="C_messenger" ConfigName="Debug"/>
+      <Project Name="Workspace1" ConfigName="Debug"/>
+      <Project Name="Exercising_basics" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Arrays_Partial_Designated_Values" ConfigName="Debug"/>
+      <Project Name="Prime_Numbers" ConfigName="Debug"/>
+      <Project Name="Multidimensional_Arrays" ConfigName="Debug"/>
+      <Project Name="Function_Function_Prototypes" ConfigName="Debug"/>
+      <Project Name="Function_Exercises1" ConfigName="Debug"/>
+      <Project Name="Tic_Tac_Toe" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="MyFirstProgram" ConfigName="Release"/>
+      <Project Name="PrintingName" ConfigName="Release"/>
+      <Project Name="ReadingFromInput" ConfigName="Release"/>
+      <Project Name="DataTypes" ConfigName="Release"/>
+      <Project Name="EnumExample" ConfigName="Release"/>
+      <Project Name="FormatSpecifiers" ConfigName="Release"/>
+      <Project Name="Rectangle" ConfigName="Release"/>
+      <Project Name="CommandLineArguments" ConfigName="Release"/>
+      <Project Name="BasicOperators" ConfigName="Release"/>
+      <Project Name="MinutesConversion" ConfigName="Release"/>
+      <Project Name="BitwiseOperator" ConfigName="Release"/>
+      <Project Name="Print_byte_size" ConfigName="Release"/>
+      <Project Name="If_statements" ConfigName="Release"/>
+      <Project Name="Amount_of_Pay_Challenge" ConfigName="Release"/>
+      <Project Name="Amount_of_Pay_ChalengeV2" ConfigName="Release"/>
+      <Project Name="Switch_statement" ConfigName="Release"/>
+      <Project Name="Building_Calculator" ConfigName="Release"/>
+      <Project Name="For_Loops" ConfigName="Release"/>
+      <Project Name="While_Do_While" ConfigName="Release"/>
+      <Project Name="Nested_Loops_Control" ConfigName="Release"/>
+      <Project Name="Guessing_game" ConfigName="Release"/>
+      <Project Name="C_messenger" ConfigName="Release"/>
+      <Project Name="Workspace1" ConfigName="Release"/>
+      <Project Name="Exercising_basics" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="Arrays_Partial_Designated_Values" ConfigName="Release"/>
+      <Project Name="Prime_Numbers" ConfigName="Release"/>
+      <Project Name="Multidimensional_Arrays" ConfigName="Release"/>
+      <Project Name="Function_Function_Prototypes" ConfigName="Release"/>
+      <Project Name="Function_Exercises1" ConfigName="Release"/>
+      <Project Name="Tic_Tac_Toe" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
