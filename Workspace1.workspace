@@ -32,7 +32,8 @@
   <Project Name="Multidimensional_Arrays" Path="Multidimensional_Arrays/Multidimensional_Arrays.project" Active="No"/>
   <Project Name="Function_Function_Prototypes" Path="Function_Function_Prototypes/Function_Function_Prototypes.project" Active="No"/>
   <Project Name="Function_Exercises1" Path="Function_Exercises1/Function_Exercises1.project" Active="No"/>
-  <Project Name="Tic_Tac_Toe" Path="Tic_Tac_Toe/Tic_Tac_Toe.project" Active="Yes"/>
+  <Project Name="Tic_Tac_Toe" Path="Tic_Tac_Toe/Tic_Tac_Toe.project" Active="No"/>
+  <Project Name="Fun_With_Pointers_Arrays" Path="Fun_With_Pointers_Arrays/Fun_With_Pointers_Arrays.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -69,6 +70,7 @@
       <Project Name="Function_Function_Prototypes" ConfigName="Debug"/>
       <Project Name="Function_Exercises1" ConfigName="Debug"/>
       <Project Name="Tic_Tac_Toe" ConfigName="Debug"/>
+      <Project Name="Fun_With_Pointers_Arrays" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -105,6 +107,7 @@
       <Project Name="Function_Function_Prototypes" ConfigName="Release"/>
       <Project Name="Function_Exercises1" ConfigName="Release"/>
       <Project Name="Tic_Tac_Toe" ConfigName="Release"/>
+      <Project Name="Fun_With_Pointers_Arrays" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
